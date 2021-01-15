@@ -68,7 +68,7 @@ Sunday       82 commits     ██████░░░░░░░░░░░�
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=paulasijit&theme=nord&column=7)](https://github.com/paulasijit/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=paulasijit&theme=nord&column=7)
 
 
 ## 🗂️ Highlight Projects
