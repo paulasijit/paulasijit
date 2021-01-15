@@ -42,9 +42,10 @@
 ## &#x1f4c8; GitHub Stats
 ![Asijit's github stats](https://github-readme-stats.vercel.app/api?username=paulasijit&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulasijit&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+## CODING STATS
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
+## YEAR PROGRESS BAR
 ⏳ **Year Progress** { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 4.01 % as on ⏰ 15-1-2021.
 
 
