@@ -2,7 +2,7 @@
 
 [![Header](https://raw.githubusercontent.com/paulasijit/paulasijit/main/asijit_gif.gif)](https://www.linkedin.com/in/asijit-paul-2142881a2/)
 <!-- If you want the template for my gif, email me! -->
-![Follow](https://img.shields.io/github/followers/paulasijit?label=Follow&style=social)
+<!--![Follow](https://img.shields.io/github/followers/paulasijit?label=Follow&style=social) -->
 
 ### Languages
 
