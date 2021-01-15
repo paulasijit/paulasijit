@@ -41,15 +41,17 @@
 
 ## &#x1f4c8; GitHub Stats
 ![Asijit's github stats](https://github-readme-stats.vercel.app/api?username=paulasijit&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulasijit&layout=compact&text_color=daf7dc&bg_color=151515)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulasijit&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+⏳ **Year Progress** { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 4.01 % as on ⏰ 15-1-2021.
+
 
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=paulasijit&theme=nord&column=7)](https://github.com/paulasijit/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=paulasijit&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 🗂️ Highlight Projects
@@ -64,10 +66,12 @@
 
 ### 🧑‍💻  This week, I spent my time on:
 
-![Asijit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@paulasijit&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)
+[![Asijit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@paulasijit&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📫 How to reach me
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Asijit on Instagram"/>](https://www.linkedin.com/in/asijit-paul-2142881a2/)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Asijit on Instagram"/>](https://twitter.com/asijit_paul)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Asijit on Instagram"/>](https://instagram.com/heyasijit)
+
