@@ -41,23 +41,34 @@
 
 ## &#x1f4c8; GitHub Stats
 ![Asijit's github stats](https://github-readme-stats.vercel.app/api?username=paulasijit&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulasijit&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulasijit&layout=compact&text_color=daf7dc&bg_color=151515)
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 ```text
+🌞 Morning    30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.98% 
+🌆 Daytime    87 commits     ██████░░░░░░░░░░░░░░░░░░░   26.05% 
+🌃 Evening    165 commits    ████████████░░░░░░░░░░░░░   49.4% 
+🌙 Night      52 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.57%
 ```
 📅 **I'm Most Productive on Sunday** 
 ```text
+Monday       45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.8% 
+Tuesday      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.55% 
+Wednesday    53 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.43% 
+Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.61% 
+Friday       19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Saturday     65 commits     █████░░░░░░░░░░░░░░░░░░░░   21.38% 
+Sunday       82 commits     ██████░░░░░░░░░░░░░░░░░░░   26.97%
 ```
 
 <!--END_SECTION:waka-->
-
+⏳ **Year Progress** { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 3.85 % as on ⏰ 15-1-2021.
 
 
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=paulasijit&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=paulasijit&theme=nord&column=7)](https://github.com/paulasijit/github-profile-trophy)
 
 
 ## 🗂️ Highlight Projects
@@ -72,8 +83,7 @@
 
 ### 🧑‍💻  This week, I spent my time on:
 
-[![Asijit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@paulasijit&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
-
+![Asijit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@paulasijit&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)
 ## 📫 How to reach me
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
