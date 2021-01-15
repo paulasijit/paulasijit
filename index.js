@@ -1,3 +1,20 @@
+const thisYear = new Date().getFullYear()
+const startTimeOfThisYear = new Date(`${thisYear}-01-01T00:00:00+00:00`).getTime()
+const endTimeOfThisYear = new Date(`${thisYear}-12-31T23:59:59+00:00`).getTime()
+const progressOfThisYear = (Date.now() - startTimeOfThisYear) / (endTimeOfThisYear - startTimeOfThisYear)
+const progressBarOfThisYear = generateProgressBar()
+
+function generateProgressBar() {
+    const progressBarCapacity = 30
+    const passedProgressBarIndex = parseInt(progressOfThisYear * progressBarCapacity)
+    const progressBar = Array(progressBarCapacity)
+        .fill('▁')
+        .map((value, index) => index < passedProgressBarIndex ? '█' : value)
+        .join('')
+    return `{ ${progressBar} }`
+}
+
+const readme = `\
 ### Hi there 👋
 
 [![Header](https://raw.githubusercontent.com/paulasijit/paulasijit/main/asijit_gif.gif)](https://www.linkedin.com/in/asijit-paul-2142881a2/)
@@ -43,15 +60,9 @@
 ![Asijit's github stats](https://github-readme-stats.vercel.app/api?username=paulasijit&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulasijit&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-```text
-```
-📅 **I'm Most Productive on Sunday** 
-```text
-```
 
 <!--END_SECTION:waka-->
-
+⏳ **Year Progress** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${new Date().getDate()+'-'+(new Date().getMonth()+1)+'-'+new Date().getFullYear()+'.'}
 
 
 
@@ -80,3 +91,5 @@
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Asijit on Instagram"/>](https://www.linkedin.com/in/asijit-paul-2142881a2/)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Asijit on Instagram"/>](https://twitter.com/asijit_paul)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Asijit on Instagram"/>](https://instagram.com/heyasijit)
+`
+console.log(readme)
