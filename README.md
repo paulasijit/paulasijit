@@ -44,6 +44,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulasijit&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 ## CODING STATS
 <!--START_SECTION:waka-->
+```text
+PHP          2 hrs 32 mins   █████████████▒░░░░░░░░░░░   53.35 % 
+Markdown     1 hr 47 mins    █████████▒░░░░░░░░░░░░░░░   37.64 % 
+YAML         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+JavaScript   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Ruby         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+```
 <!--END_SECTION:waka-->
 ## YEAR PROGRESS BAR
 ⏳ **Year Progress** { █▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 4.18 % as on ⏰ 16-1-2021.
