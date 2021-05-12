@@ -44,6 +44,71 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulasijit&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 ## CODING STATS
 <!--START_SECTION:waka-->
+**🐱 My Github Data** 
+
+> 🏆 139 Contributions in the Year 2021
+ > 
+> 📦 25.2 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 9 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    17 commits     █████████░░░░░░░░░░░░░░░░   37.78% 
+🌆 Daytime    7 commits      ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
+🌃 Evening    21 commits     ███████████░░░░░░░░░░░░░░   46.67% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       17 commits     █████████░░░░░░░░░░░░░░░░   37.78% 
+Tuesday      2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
+Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Thursday     5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Friday       19 commits     ██████████░░░░░░░░░░░░░░░   42.22% 
+Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sunday       2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.44%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   8 repos             ████████████░░░░░░░░░░░░░   50.0% 
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+
+```
+
+
+
 <!--END_SECTION:waka-->
 ## YEAR PROGRESS BAR
 ⏳ **Year Progress** { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 36.11 % as on ⏰ 12-5-2021.
