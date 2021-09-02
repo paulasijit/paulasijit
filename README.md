@@ -44,6 +44,72 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulasijit&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 ## CODING STATS
 <!--START_SECTION:waka-->
+**🐱 My Github Data** 
+
+> 🏆 144 Contributions in the Year 2021
+ > 
+> 📦 25.4 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 9 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.81% 
+🌆 Daytime    40 commits     █████████░░░░░░░░░░░░░░░░   38.1% 
+🌃 Evening    58 commits     █████████████░░░░░░░░░░░░   55.24% 
+🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       26 commits     ██████░░░░░░░░░░░░░░░░░░░   24.76% 
+Tuesday      6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
+Wednesday    8 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.62% 
+Thursday     25 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
+Friday       25 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
+Saturday     12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+Sunday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   9 repos             █████████████░░░░░░░░░░░░   52.94% 
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+
+```
+
+
+
+ Last Updated on 02/09/2021
 <!--END_SECTION:waka-->
 ## YEAR PROGRESS BAR
 ⏳ **Year Progress** { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 67.06 % as on ⏰ 2-9-2021.
