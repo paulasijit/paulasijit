@@ -44,6 +44,34 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulasijit&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 ## CODING STATS
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2031%20mins-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 146 Contributions in the Year 2022
+ > 
+> 📦 70.5 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 15 Public Repositories 
+ > 
+> 🔑 24 Private Repositories  
+ > 
+**I Mostly Code in Python** 
+
+```text
+Python                   16 repos            █████████████░░░░░░░░░░░░   53.33% 
+HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
+
+```
+
+
+
+ Last Updated on 12/12/2022 18:38:57 UTC
 <!--END_SECTION:waka-->
 ## YEAR PROGRESS BAR
 ⏳ **Year Progress** { ████████████████████████████▁▁ } 94.73 % as on ⏰ 12-12-2022.
