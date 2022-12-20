@@ -44,77 +44,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulasijit&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 ## CODING STATS
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2031%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 146 Contributions in the Year 2022
- > 
-> 📦 70.5 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 15 Public Repositories 
- > 
-> 🔑 24 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.18% 
-🌆 Daytime    75 commits     ███████████░░░░░░░░░░░░░░   44.12% 
-🌃 Evening    55 commits     ████████░░░░░░░░░░░░░░░░░   32.35% 
-🌙 Night      21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.35%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       39 commits     █████░░░░░░░░░░░░░░░░░░░░   22.94% 
-Tuesday      21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.35% 
-Wednesday    23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.53% 
-Thursday     34 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Friday       44 commits     ██████░░░░░░░░░░░░░░░░░░░   25.88% 
-Saturday     5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94% 
-Sunday       4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   16 repos            █████████████░░░░░░░░░░░░   53.33% 
-HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.33%
-
-```
-
-
-
- Last Updated on 19/12/2022 18:37:03 UTC
 <!--END_SECTION:waka-->
 ## YEAR PROGRESS BAR
-⏳ **Year Progress** { ████████████████████████████▁▁ } 96.65 % as on ⏰ 19-12-2022.
+⏳ **Year Progress** { █████████████████████████████▁ } 96.92 % as on ⏰ 20-12-2022.
 
 
 
