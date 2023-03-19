@@ -44,74 +44,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulasijit&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 ## CODING STATS
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2031%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 96.9 kB Used in GitHub's Storage 
- > 
-> 🏆 49 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 17 Public Repositories 
- > 
-> 🔑 28 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-🌆 Daytime                154 commits         ██████████░░░░░░░░░░░░░░░   40.63 % 
-🌃 Evening                144 commits         █████████░░░░░░░░░░░░░░░░   37.99 % 
-🌙 Night                  28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   80 commits          █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Tuesday                  47 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Wednesday                59 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Thursday                 66 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-Friday                   84 commits          ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-Saturday                 31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Sunday                   12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   15 repos            █████████░░░░░░░░░░░░░░░░   36.59 % 
-JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-```
-
-
-
-
- Last Updated on 19/03/2023 18:33:45 UTC
 <!--END_SECTION:waka-->
 ## YEAR PROGRESS BAR
-⏳ **Year Progress** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 21.03 % as on ⏰ 18-3-2023.
+⏳ **Year Progress** { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 21.31 % as on ⏰ 19-3-2023.
 
 
 
