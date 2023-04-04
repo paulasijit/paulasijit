@@ -98,17 +98,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            █████████░░░░░░░░░░░░░░░░   36.59 % 
-JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
 
 
- Last Updated on 02/04/2023 18:31:55 UTC
+ Last Updated on 04/04/2023 18:32:03 UTC
 <!--END_SECTION:waka-->
 ## YEAR PROGRESS BAR
 ⏳ **Year Progress** { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 24.87 % as on ⏰ 1-4-2023.
