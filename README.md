@@ -44,6 +44,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulasijit&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 ## CODING STATS
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2031%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 156.9 kB Used in GitHub's Storage 
@@ -106,7 +108,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/11/2023 18:32:19 UTC
+ Last Updated on 24/11/2023 18:32:18 UTC
 <!--END_SECTION:waka-->
 ## YEAR PROGRESS BAR
 ⏳ **Year Progress** { ██████████████████████████▁▁▁▁ } 89.25 % as on ⏰ 22-11-2023.
