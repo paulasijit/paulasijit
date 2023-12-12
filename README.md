@@ -46,7 +46,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ## YEAR PROGRESS BAR
-⏳ **Year Progress** { ████████████████████████████▁▁ } 94.46 % as on ⏰ 11-12-2023.
+⏳ **Year Progress** { ████████████████████████████▁▁ } 94.73 % as on ⏰ 12-12-2023.
 
 
 
