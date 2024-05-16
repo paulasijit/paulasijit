@@ -22,13 +22,13 @@
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=888)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-<!-- ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC) -->
-<!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) -->
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 <!-- ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring) -->
 <!-- ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco) -->
+<!-- ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC) -->
+<!-- ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) -->
 
 ### Full Stack Projects
 
