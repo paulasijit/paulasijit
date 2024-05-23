@@ -26,7 +26,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-![Jenkins]([https://img.shields.io/badge/-Spring-000?&logo=Spring](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)
 
 ### Full Stack Projects
 
