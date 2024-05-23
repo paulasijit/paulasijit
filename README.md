@@ -38,7 +38,6 @@
 
 [![Keygen](https://img.shields.io/badge/Keygen-v2.0-red)](https://github.com/paulasijit/python_keygen)
 
-
 ## &#x1f4c8; GitHub Stats
 ![Asijit's github stats](https://github-readme-stats.vercel.app/api?username=paulasijit&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515)
 
