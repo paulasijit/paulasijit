@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 [![Header](https://raw.githubusercontent.com/paulasijit/paulasijit/main/asijit_gif.gif)](https://www.linkedin.com/in/asijit-paul-2142881a2/)
-<!-- If you want the template for my gif, email me! -->
 ![Follow](https://img.shields.io/github/followers/paulasijit?label=Follow&style=social)
 
 ### Languages
@@ -12,7 +11,7 @@
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/paulasijit?tab=repositories&q=&type=&language=c)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/paulasijit?tab=repositories&q=&type=&language=java)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)](https://github.com/paulasijit?tab=repositories&q=&type=&language=typescript)
-[![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)](https://github.com/paulasijit?tab=repositories&q=&type=&language=c++)
+[![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)](https://github.com/paulasijit?tab=repositories&q=&type=&language=cpp)
 [![Go](https://img.shields.io/badge/-Golang-000?&logo=go)](https://github.com/paulasijit?tab=repositories&q=&type=&language=go)
 [![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)](https://github.com/paulasijit?tab=repositories&q=&type=&language=sql)
 [![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)](https://github.com/paulasijit?tab=repositories&q=&type=&language=swift)
@@ -43,9 +42,11 @@
 ## &#x1f4c8; GitHub Stats
 ![Asijit's github stats](https://github-readme-stats.vercel.app/api?username=paulasijit&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulasijit&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
 ## CODING STATS
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!-- START_SECTION:waka
+END_SECTION:waka -->
+
 ## YEAR PROGRESS BAR
 ⏳ **Year Progress** { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 39.01 % as on ⏰ 22-5-2024.
 
@@ -58,12 +59,16 @@
 
 ## 🗂️ Highlight Projects
 
+<a href="https://github.com/paulasijit/terminal-site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paulasijit&repo=terminal-site&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="terminal-site" />
+</a>
+
 <a href="https://github.com/paulasijit/coding_platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paulasijit&repo=coding_platform&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="DA-RNN" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paulasijit&repo=coding_platform&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="coding_platform" />
 </a>
 
 <a href="https://github.com/paulasijit/python_keygen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paulasijit&repo=python_keygen&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="crnn-pytorch" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=paulasijit&repo=python_keygen&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="python_keyge" />
 </a>
 
 ### 🧑‍💻  This week, I spent my time on:
