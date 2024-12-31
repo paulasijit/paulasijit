@@ -44,7 +44,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulasijit&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ## YEAR PROGRESS BAR
-⏳ **Year Progress** { █████████████████████████████▁ } 99.67 % as on ⏰ 30-12-2024.
+⏳ **Year Progress** { █████████████████████████████▁ } 99.94 % as on ⏰ 31-12-2024.
 
 ## 🏆 GitHub Trophies
 
