@@ -44,11 +44,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulasijit&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ## YEAR PROGRESS BAR
-⏳ **Year Progress** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 7.34 % as on ⏰ 27-1-2026.
+⏳ **Year Progress** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 7.61 % as on ⏰ 28-1-2026.
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=paulasijit&theme=nord&column=7)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=paulasijit&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🗂️ Highlight Projects
 
