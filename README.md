@@ -39,16 +39,16 @@
 [![Keygen](https://img.shields.io/badge/Keygen-v2.0-red)](https://github.com/paulasijit/python_keygen)
 
 ## &#x1f4c8; GitHub Stats
-![Asijit's github stats](https://github-readme-stats.vercel.app/api?username=paulasijit&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515)
+![Asijit's github stats](https://github-readme-stats-six-omega-59.vercel.app/api?username=paulasijit&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulasijit&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-six-omega-59.vercel.app/api/top-langs/?username=paulasijit&layout=compact&card_width=470&text_color=daf7dc&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## YEAR PROGRESS BAR
 ⏳ **Year Progress** { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 7.61 % as on ⏰ 28-1-2026.
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy-one-sigma.vercel.app/?username=paulasijit&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-one-sigma.vercel.app/?username=paulasijit&theme=nord&column=7&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🗂️ Highlight Projects
 
